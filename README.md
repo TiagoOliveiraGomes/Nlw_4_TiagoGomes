@@ -35,6 +35,6 @@ Lembrando que é nescessario um [backend](https://github.com/TiagoOliveiraGomes/
 
 O widget é um componente estilizado, que pode ser reutilizado em diversos projetos onde o usuário poderá interagir e enviar notas de feedback para o autor do site.
 
-![Imagem do Widget visto em tela mobile](https://user-images.githubusercontent.com/70171892/167929122-76ea9c38-ce15-404d-9dfc-b26d06eacdeb.jpg)
+![Imagem do Widget do app](https://user-images.githubusercontent.com/70171892/167913413-a81ba7c1-7a81-425f-aba5-6cb58540cdf5.png)
 
 Feito com 🧡 by Tiago Gomes 👋🏻 
