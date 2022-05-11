@@ -1,5 +1,7 @@
 import axios from 'axios'
 
 export const api = axios.create({
-    baseURL: "http://localhost:3333"
+    baseURL: "https://nlw1servertiagogomes-production.up.railway.app"
 })
+
+//url: 192.168.0.106
